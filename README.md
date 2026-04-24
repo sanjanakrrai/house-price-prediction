@@ -12,7 +12,7 @@ A Machine Learning-based web application that predicts house prices based on use
 
 ## 🚀 Live Demo
 
-🔗 https://house-price-prediction-wou28fiafappfrftxvsbbfh.streamlit.app
+🔗 https://house-price-prediction-wou28fiafappfrtfxvsbbfh.streamlit.app/
 
 ---
 
